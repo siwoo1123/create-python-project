@@ -10,5 +10,8 @@
     "git": "git add . && git commit -m \"commit\" && git push -u origin main"
   },
   "author": "siuber",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0"
+  }
 }
