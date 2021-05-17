@@ -9,14 +9,6 @@
   "scripts": {
     "git": "git add . && git commit -m \"commit\" && git push -u origin main"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/siwoo1123/create-python-project.git"
-  },
   "author": "siuber",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/siwoo1123/create-python-project/issues"
-  },
-  "homepage": "https://github.com/siwoo1123/create-python-project#readme"
+  "license": "ISC"
 }
