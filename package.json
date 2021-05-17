@@ -1,0 +1,22 @@
+{
+  "name": "create-python-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "create-python-project": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwoo1123/create-python-project.git"
+  },
+  "author": "siuber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siwoo1123/create-python-project/issues"
+  },
+  "homepage": "https://github.com/siwoo1123/create-python-project#readme"
+}
